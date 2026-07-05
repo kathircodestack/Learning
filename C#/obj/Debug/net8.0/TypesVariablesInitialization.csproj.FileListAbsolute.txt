@@ -1,0 +1,15 @@
+/workspaces/Learning/C#/bin/Debug/net8.0/TypesVariablesInitialization
+/workspaces/Learning/C#/bin/Debug/net8.0/TypesVariablesInitialization.deps.json
+/workspaces/Learning/C#/bin/Debug/net8.0/TypesVariablesInitialization.runtimeconfig.json
+/workspaces/Learning/C#/bin/Debug/net8.0/TypesVariablesInitialization.dll
+/workspaces/Learning/C#/bin/Debug/net8.0/TypesVariablesInitialization.pdb
+/workspaces/Learning/C#/obj/Debug/net8.0/TypesVariablesInitialization.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Learning/C#/obj/Debug/net8.0/TypesVariablesInitialization.AssemblyInfoInputs.cache
+/workspaces/Learning/C#/obj/Debug/net8.0/TypesVariablesInitialization.AssemblyInfo.cs
+/workspaces/Learning/C#/obj/Debug/net8.0/TypesVariablesInitialization.csproj.CoreCompileInputs.cache
+/workspaces/Learning/C#/obj/Debug/net8.0/TypesVariablesInitialization.sourcelink.json
+/workspaces/Learning/C#/obj/Debug/net8.0/TypesVariablesInitialization.dll
+/workspaces/Learning/C#/obj/Debug/net8.0/refint/TypesVariablesInitialization.dll
+/workspaces/Learning/C#/obj/Debug/net8.0/TypesVariablesInitialization.pdb
+/workspaces/Learning/C#/obj/Debug/net8.0/TypesVariablesInitialization.genruntimeconfig.cache
+/workspaces/Learning/C#/obj/Debug/net8.0/ref/TypesVariablesInitialization.dll
